@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mazdak!</h1>
+   <p align="center"><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /></p>
+
+
 <h3 align="center">Studying software engineering. Junior Back-end .NET developer, not a front-end(or full stack) but I'm familiar with some front-end technologies for personal interest. I also have worked with nodejs but I prefer .NET more.</h3>
 
 - 🔭 I’m currently working on [a full-stack Dating site (.NET, Angular)](https://github.com/PureJoyMind/DatingApp)
@@ -33,7 +35,6 @@
 
 </br>
  <div align="center">
-   <p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /></p>
    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PureJoyMind&theme=tokyonight&hide_border=true" /></p>
    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PureJoyMind&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></p>
  </div>
