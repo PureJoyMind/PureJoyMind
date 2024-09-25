@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mazdak!</h1>
-<h3 align="center">Studying software engineering. Junior Back-end .NET developer, not a front-end(or full stack) but know I'm familiar with some front-end technologies for personal interest. I also have worked with nodejs but I prefer .NET more.</h3>
+<h3 align="center">Studying software engineering. Junior Back-end .NET developer, not a front-end(or full stack) but I'm familiar with some front-end technologies for personal interest. I also have worked with nodejs but I prefer .NET more.</h3>
 
 - 🔭 I’m currently working on [a full-stack Dating site (.NET, Angular)](https://github.com/PureJoyMind/DatingApp)
 
