@@ -30,15 +30,15 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-<div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PureJoyMind&theme=tokyonight&hide_border=true" /></p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PureJoyMind&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></p>
-</div>
+
+</br>
+ <div align="center">
+   <p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /></p>
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PureJoyMind&theme=tokyonight&hide_border=true" /></p>
+   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PureJoyMind&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></p>
+ </div>
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 </br>
 ## 🌐 Socials:
 <div>
