@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mazdak!</h1>
-<h3 align="center">Studying software engineering. Junior Back-end .NET developer, not a front-end(full stack) but know some Angular and VueJs for personal interest. I also have worked with nodejs but I prefer .NET more.</h3>
+<h3 align="center">Studying software engineering. Junior Back-end .NET developer, not a front-end(or full stack) but know I'm familiar with some front-end technologies for personal interest. I also have worked with nodejs but I prefer .NET more.</h3>
 
 - 🔭 I’m currently working on [a full-stack Dating site (.NET, Angular)](https://github.com/PureJoyMind/DatingApp)
 
-- 🌱 I’m currently studying and learning about **Front technologies (Angular, Blazor) for personal interest**
+- 🌱 I’m currently roadmap and learning:
+  * **Reading and applying Clean Code by Uncle Bob**
+  * **Front technologies (Angular, Blazor) for personal interest**
 
 - 📝 I write articles on [Dev.to](https://dev.to/purejoymind)
 
-
-## 🌐 Socials:
-<a href="https://linkedin.com/in/mazdak-parniandg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mazdak-parniandg" height="30" width="40" /></a>
-<a href="https://dev.to/purejoymind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="purejoymind" height="30" width="40" /></a>
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
@@ -33,14 +31,17 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 # 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=PureJoyMind&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=PureJoyMind&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PureJoyMind&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)   
+<div align="center">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PureJoyMind&theme=tokyonight&hide_border=true" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PureJoyMind&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></p>
+</div>
 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+</br>
+## 🌐 Socials:
+<div>
+<a href="https://linkedin.com/in/mazdak-parniandg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mazdak-parniandg" height="30" width="40" /></a>
+<a href="https://dev.to/purejoymind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="purejoymind" height="30" width="40" /></a>
+</div>
