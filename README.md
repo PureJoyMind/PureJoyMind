@@ -2,11 +2,10 @@
 
 <h3 align="center">Studying software engineering. Junior Back-end .NET developer, not a front-end(or full stack) but I'm familiar with some front-end technologies for personal interest. I also have worked with nodejs but I prefer .NET more.</h3>
 
-- 🔭 I’m currently working on [a full-stack Dating site (.NET, Angular)](https://github.com/PureJoyMind/DatingApp)
+- 🔭 I’m currently working on a personal passion project which is a windows app(that's all I can say for now)
 
-- 🌱 I’m currently roadmap and learning:
-  * **Reading and applying Clean Code by Uncle Bob**
-  * **Front technologies (Angular, Blazor) for personal interest**
+- 🌱 my current roadmap and learning:
+  * **Updating and deepening my knowledge in .NET**
 
 - 📝 I write articles on [Dev.to](https://dev.to/purejoymind)
 
