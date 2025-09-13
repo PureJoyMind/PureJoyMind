@@ -1,11 +1,11 @@
 <p align="center"><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /></p>
 
-<h3 align="center">Studying software engineering. Junior Back-end .NET developer, not a front-end(or full stack) but I'm familiar with some front-end technologies for personal interest. I also have worked with nodejs but I prefer .NET more.</h3>
+<h3 align="center">Software Engineer using .NET & GO.</h3>
 
 - 🔭 I’m currently working on a personal passion project which is a windows app(that's all I can say for now)
 
 - 🌱 my current roadmap and learning:
-  * **Updating and deepening my knowledge in .NET**
+  * **Getting deep in network and socket programming**
 
 - 📝 I write articles on [Dev.to](https://dev.to/purejoymind)
 
@@ -35,7 +35,7 @@
 
 ***
 
-<div>
+<div align="center">
 <a href="https://linkedin.com/in/mazdak-parniandg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mazdak-parniandg" height="30" width="40" /></a>
 <a href="https://dev.to/purejoymind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="purejoymind" height="30" width="40" /></a>
 </div>
