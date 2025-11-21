@@ -26,6 +26,7 @@
   * **Studying System Design and tools to scale my services**
 
 - 📝 I write articles on [Dev.to](https://dev.to/purejoymind) and My [Personal Blog](https://mazdakparnian.com/blogs)
+- I have a persian tech channel on [Telegram](https://t.me/ever_code) which I frequently write about things I find interesting and it's like a micro-blog
 
 
 # 💻 Tech Stack:
