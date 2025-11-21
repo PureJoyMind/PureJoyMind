@@ -46,8 +46,3 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
- <div align="center">
-   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PureJoyMind&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></p>
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PureJoyMind&theme=tokyonight&hide_border=true" /></p>
- </div>
