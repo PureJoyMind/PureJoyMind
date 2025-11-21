@@ -21,13 +21,11 @@
 </table>
 
 
-- 🔭 I’m currently working on a personal passion project which is a windows app(that's all I can say for now)
-
 - 🌱 my current roadmap and learning:
   * **Getting deep in network and socket programming**
   * **Studying System Design and tools to scale my services**
 
-- 📝 I write articles on [Dev.to](https://dev.to/purejoymind)
+- 📝 I write articles on [Dev.to](https://dev.to/purejoymind) and My [Personal Blog](https://mazdakparnian.com/blogs)
 
 
 # 💻 Tech Stack:
